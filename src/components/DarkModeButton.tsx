@@ -63,7 +63,7 @@ export default function DarkModeButton() {
         {mode === "dark" ? (
           <SunIcon className={"fill-[#372D3B] "} />
         ) : (
-          <MoonIcon className={"fill-[#372D3B]"} />
+          <MoonIcon className={"fill-[#]"} />
         )}
       </button>
     </div>
