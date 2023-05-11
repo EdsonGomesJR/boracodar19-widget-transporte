@@ -62,27 +62,8 @@ O  **_Widget Transporte_** é o **#19** projeto do desafio semanal da RocketSeat
 
 O layout inicial do pojeto foi fornecido pela equipe de designers da RocketSeat e pode ser acessado no seguinte link do **[Figma](https://www.figma.com/community/file/1238132190532383264)**. A primera parte do desafio consiste em replicar a interface proposta como na imagem abaixo.
 
+<div align="center">
+   <img  alt="figma" src="./src/assets/figma.png" width="75%">
+</div>
+                                                             
 
-<h2 align="center">
-  API utilizada
-</h2>
-
-Utilizamos um site com APIs Open Source chamado _Open meteo_, ele é gratuito e não tem necessidade de um API_token, além dessa facilitação, ele tem um URL builder, em que você seleciona os parâmetros desejados na interface e ele te mostra a URL que deve ser utilizada.
-
-Para mostrar os dados meteorologicos foi usado a [Weather Forecast API](https://open-meteo.com/en/docs) e para os dados de qualidade do ar, usamos o [Air Quality API](https://open-meteo.com/en/docs/air-quality-api). Além disso, vale ressaltar que foi usada a métrica Européia de classificação da qualidade do ar.
-
-No projeto usado, utilizamos como referência a cidade de São Paulo, e consequentemente seus dados meteorologicos. Para a utilização de outras cidades, é necessário modificar as coordenadas de latitude e longitude.
-
-_<h2 align="center" ><a href="https://weather-dashboard-eosin.vercel.app" target="_blank">Visite o projeto online</a></h2>_
-
-## 🔖 Layout
-
-Você pode visualizar o layout proposto pela RocketSeat através do da <a href="https://www.figma.com/community/file/1238132190532383264">imagem abaixo</a>. Disponibilizado pelo [Figma](https://figma.com) durante o período do desafio.
-
-<p align="center" id="-layout-figma">
-  <img alt="weather figma" src="./src/assets/figma-weather.png" width="100%">
-</p>
-
-## 📃 Collaborators
-
-This challange was made by [Julia](https://gsajulia.github.io) and [Ricardo](https://rickazuo.github.io/portfolio/)
