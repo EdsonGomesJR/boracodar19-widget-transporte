@@ -1,19 +1,13 @@
 
 <h1 align="center"> #19  Widget Transporte </h1>
 
-
-O desafio #19 do [Bora Codar](https://boracodar.dev) da RocketSeat, consiste na criação de um _widget_ de transporte.
-
-
 <p align="center">
   <a href="#-getting-started">Como começar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-collaborators">Collaborators</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-collaborators">Collaborators</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
-
-<br>
 
 <p align="center" id="-layout">
   <img alt="climate project gif" src="./src/assets/weatherDashboard.gif" width="100%">
