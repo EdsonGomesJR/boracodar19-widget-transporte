@@ -5,7 +5,7 @@
   <a href="#-getting-started">Como começar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-interface-criada">Interface</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-collaborators">Collaborators</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
 
@@ -34,7 +34,7 @@ npm run dev
 yarn dev
 ```
 
-## 🚀 Tecnologias
+## 🏆 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
@@ -52,12 +52,26 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O  **_Widget Transporte_** é o **#19** projeto do desafio semanal da RocketSeat, estes desafios servem para estimular a comunidade a aprender e rever conceitos, lógicas e metódos utilizados para resolver problemas/situações que acontecem no dia-a-dia de um programador, assim como aumentar o portifólio  com a criação de interfaces, componentes e sistemas funcionais.
 
 
- ### Interface
+ ### Layout Proposto
 
 O layout inicial do pojeto foi fornecido pela equipe de designers da RocketSeat e pode ser acessado no seguinte link do **[Figma](https://www.figma.com/community/file/1238132190532383264)**. A primera parte do desafio consiste em replicar a interface proposta como na imagem abaixo.
 
 <div align="center">
    <img  alt="figma" src="./src/assets/figma.png" width="75%">
 </div>
+
+
+## 🔖 Resultado 
+
+Nesse desafio foram utilizadas as propriedades relative e absolute do CSS, para posicionar a imagem do carro atrás da foto do motorista
+O layout final do desafio:
+
+<p align="center" id="-layout-figma">
+  <img alt="weather figma" src="./src/assets/figma-weather.png" width="100%">
+</p>
+##  🚀 Indo Além
+## 📃 Collaborators
+
+This challange was made by [Julia](https://gsajulia.github.io) and [Ricardo](https://rickazuo.github.io/portfolio/)
                                                              
 
