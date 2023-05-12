@@ -39,7 +39,6 @@ yarn dev
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
-- CSS
 - TailwindCSS
 - NextJs
 - JavaScript
