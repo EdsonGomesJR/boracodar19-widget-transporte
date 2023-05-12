@@ -63,13 +63,26 @@ O layout inicial do pojeto foi fornecido pela equipe de designers da RocketSeat 
 
 ## 🔖 Resultado 
 
-Nesse desafio foram utilizadas as propriedades relative e absolute do CSS, para posicionar a imagem do carro atrás da foto do motorista
-O layout final do desafio:
+Nesse desafio foram utilizadas as propriedades **relative** e **absolute** do CSS, assim posicionamos a imagem do carro junto com a foto do motorista, no caso para a foto do motorista ficar a frente usamos o **z-index** e assim vemos layout finalizado:
 
 <p align="center" id="-layout-figma">
-  <img alt="weather figma" src="./src/assets/figma-weather.png" width="100%">
+  <img alt="resultado" src="./src/assets/resultado.png" width="75%">
 </p>
-##  🚀 Indo Além
+
+## 🚀 Indo Além
+
+Em todos desafios temos a proposta de "irmos além", ou seja, não focar apenas em replicar o layout, mas adicionar alguma funcionalidade extra ao projeto.
+
+### DarkMode
+
+Neste projeto foi adicionado o modo "dark", alterando as cores bases entre light e dark do projeto. Utilizando o localStorage para salvar as preferências dos usuários e salvar o tema escolhido.
+Foram inseridos icones no botão de troca de tema, esses icones são no formato svg animados. 
+
+<p align="center" id="-layout-figma">
+  <img alt="darkmode" src="./src/assets/darkpreview.png" width="75%">
+</p>
+
+
 ## 📃 Collaborators
 
 This challange was made by [Julia](https://gsajulia.github.io) and [Ricardo](https://rickazuo.github.io/portfolio/)
