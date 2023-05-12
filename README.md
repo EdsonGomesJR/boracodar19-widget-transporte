@@ -5,8 +5,8 @@
   <a href="#-getting-started">Como começar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-o-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-interface-criada">Interface</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-collaborators">Collaborators</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-resultado">Resultado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-collaborators">Creators</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
 
 <p align="center" id="-layout">
@@ -66,7 +66,7 @@ O layout inicial do pojeto foi fornecido pela equipe de designers da RocketSeat 
 Nesse desafio foram utilizadas as propriedades **relative** e **absolute** do CSS, assim posicionamos a imagem do carro junto com a foto do motorista, no caso para a foto do motorista ficar a frente usamos o **z-index** e assim vemos layout finalizado:
 
 <p align="center" id="-layout-figma">
-  <img alt="resultado" src="./src/assets/resultado.png" width="75%">
+  <img alt="resultado" src="./src/assets/resultado.png" width="50%">
 </p>
 
 ## 🚀 Indo Além
@@ -79,12 +79,12 @@ Neste projeto foi adicionado o modo "dark", alterando as cores bases entre light
 Foram inseridos icones no botão de troca de tema, esses icones são no formato svg animados. 
 
 <p align="center" id="-layout-figma">
-  <img alt="darkmode" src="./src/assets/darkpreview.png" width="75%">
+  <img alt="darkmode" src="./src/assets/animated.gif" width="50%">
 </p>
 
 
-## 📃 Collaborators
+## 📃 Creators
 
-This challange was made by [Julia](https://gsajulia.github.io) and [Ricardo](https://rickazuo.github.io/portfolio/)
+This challange was made with love by Edson
                                                              
 
