@@ -86,6 +86,6 @@ Foram inseridos icones no botão de troca de tema, esses icones são no formato 
 
 ## 📃 Creators
 
-This challange was made with love by Edson
+This challange was made with 💙 by Edson
                                                              
 
